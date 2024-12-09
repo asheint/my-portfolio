@@ -57,12 +57,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am a full stack web developer with a passion for creating
-            interactive and responsive web applications. I have experience
-            working with JavaScript, React, Redux, Node.js, Express, PostgreSQL,
-            Sequelize, HTML, CSS, and Git. I am a quick learner and I am always
-            looking to expand my knowledge and skill set. I am a team player and
-            I am excited to work with others to create amazing applications.
+          I am a third-year undergraduate pursuing a BSc in Computer Science, with experience in Node.js, Next.js, React, MongoDB, and the MERN stack, as well as Spring Boot. In the realm of Web3, I am actively learning about Solidity, Foundry, Solana, NFTs, and decentralized applications (dApps). I am a quick learner and thrive in collaborative environments, eager to contribute my skills to innovative projects that push the boundaries of technology.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
