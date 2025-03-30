@@ -1,7 +1,7 @@
 <?php
 // Configure
-$from = 'Your Portfolio <asheint@hotmail.com>'; 
-$sendTo = 'Your Email <asheint@hotmail.com>'; 
+$from = 'Your Portfolio <Hello@asheint.me>'; 
+$sendTo = 'Your Email <Hello@asheint.me>'; 
 $subject = 'New message from your portfolio contact form';
 $fields = array('name' => 'Name', 'email' => 'Email', 'message' => 'Message');
 $okMessage = 'Contact form successfully submitted. Thank you, I will get back to you soon!';
