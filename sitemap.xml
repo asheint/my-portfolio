@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://ashein.me/</loc>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://ashein.me/portfolio.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://ashein.me/prompht-io.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+   <url>
+      <loc>https://ashein.me/fan-sounds-generator.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+   <url>
+      <loc>https://ashein.me/web-project-details-studio.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+   <url>
+      <loc>https://ashein.me/newsletter-app.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+</urlset>
