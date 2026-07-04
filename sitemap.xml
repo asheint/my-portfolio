@@ -11,6 +11,16 @@
       <priority>0.8</priority>
    </url>
    <url>
+      <loc>https://ashein.me/ai-powered-buy.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+   <url>
+      <loc>https://ashein.me/someday-fund.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+   <url>
       <loc>https://ashein.me/prompht-io.html</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
